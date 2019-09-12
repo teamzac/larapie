@@ -2,20 +2,31 @@
 
 namespace TeamZac\LaraPie;
 
+use SimplePie;
 use Carbon\Carbon;
 
+/**
+  * @property-read string $title
+  * @property-read string $type
+  * @property-read TeamZac\LaraPie\Feed $feed
+  */
 class Feed extends Resource
 {
-    protected $attributes = [];
-
+    /** @var Illuminate\Support\Collection */
     protected $items;
 
-    public function __construct($simplepie)
+    /**
+     * @param SimplePie $simplepie
+     */
+    public function __construct(SimplePie $simplepie)
     {
         $this->setAttributes($simplepie)
             ->setItems($simplepie);
     }
 
+    /**
+     * @return \Illuminate\Support\Collection
+     */
     public function items()
     {
         return $this->items;

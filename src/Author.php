@@ -2,21 +2,23 @@
 
 namespace TeamZac\LaraPie;
 
+use SimplePie_Item;
+
 class Author extends Resource
 {
-    public static function collection($authors)
+    public static function collection(?array $authors)
     {
         return collect($authors)->map(function($author) {
             return new static($author);
         });
     }
 
-    public function __construct($simplepie)
+    public function __construct(SimplePie_Item $simplepie)
     {
         $this->setAttributes($simplepie);
     }
 
-    protected function setAttributes($simplepie)
+    protected function setAttributes(SimplePie_Item $simplepie)
     {
         $this->attributes = [
             'name' => $simplepie->get_name(),

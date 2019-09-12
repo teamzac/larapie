@@ -2,9 +2,21 @@
 
 namespace TeamZac\LaraPie;
 
+use SimplePie_Item;
+
+/**
+  * @property-read string $id
+  * @property-read string $title
+  * @property-read string $description
+  * @property-read string $content
+  * @property-read Illuminate\Support\Collection $categories
+  * @property-read Illuminate\Support\Collection $authors
+  * @property-read TeamZac\LaraPie\Dates $dates
+  * @property-read TeamZac\LaraPie\Links $links
+  */
 class Item extends Resource
 {
-    public function __construct($simplepie)
+    public function __construct(SimplePie_Item $simplepie)
     {
         $this->setAttributes($simplepie);
     }
@@ -15,7 +27,7 @@ class Item extends Resource
             'id' => $simplepie->get_id(),
             'title' => $simplepie->get_title(),
             'description' => $simplepie->get_description(),
-            // 'content' => $simplepie->get_content(),
+            'content' => $simplepie->get_content(),
             'categories' => Category::collection($simplepie->get_categories()),
             'authors' => Author::collection($simplepie->get_authors()),
             'dates' => Dates::make($simplepie),

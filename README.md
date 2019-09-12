@@ -1,11 +1,9 @@
-# Very short description of the package
+# A SimplePie wrapper with Laravel support
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/teamzac/larapie.svg?style=flat-square)](https://packagist.org/packages/teamzac/larapie)
 [![Build Status](https://img.shields.io/travis/teamzac/larapie/master.svg?style=flat-square)](https://travis-ci.org/teamzac/larapie)
-[![Quality Score](https://img.shields.io/scrutinizer/g/teamzac/larapie.svg?style=flat-square)](https://scrutinizer-ci.com/g/teamzac/larapie)
-[![Total Downloads](https://img.shields.io/packagist/dt/teamzac/larapie.svg?style=flat-square)](https://packagist.org/packages/teamzac/larapie)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+SimplePie is a popular and feature-rich PHP library for parsing RSS/Atom feeds, but I don't particularly like the API. This package is just a lightweight wrapper around SimplePie that provides a slightly different API along with Laravel support.
 
 ## Installation
 
@@ -18,8 +16,34 @@ composer require teamzac/larapie
 ## Usage
 
 ``` php
-// Usage description here
+$feed = LaraPie::feed('https://your-feed-url/here.rss')->get();
+$feed->items()->each(function($item) {
+  echo $item->title;
+});
 ```
+
+The primary data types are Feed and Item. 
+
+### Feed
+
+The Feed class represents the RSS feed. It has an ```items()``` method which returns an ```Illuminate\Support\Collection``` instance of the feed items (```TeamZac\LaraPie\Item```). The Feed has the following read-only properties:
+
+* title
+* type
+* links (```TeamZac\LaraPie\Links```)
+
+### Item
+
+The Item class represents a single feed item. It has the following read-only properties:
+
+* id - usually the URL
+* title
+* description
+* content
+* categories (```Illuminate\Support\Collection``` of strings)
+* authors (```Illuminate\Support\Collection``` of ```TeamZac\LaraPie\Author```)
+* dates (```Illuminate\Support\Collection``` of ```Carbon\Carbon```)
+* links (```Illuminate\Support\Collection``` of strings)
 
 ### Testing
 
@@ -42,12 +66,8 @@ If you discover any security related issues, please email chad@zactax.com instea
 ## Credits
 
 - [Chad Janicek](https://github.com/teamzac)
-- [All Contributors](../../contributors)
+- [Laravel Package Boilerplate](https://laravelpackageboilerplate.com)
 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## Laravel Package Boilerplate
-
-This package was generated using the [Laravel Package Boilerplate](https://laravelpackageboilerplate.com).

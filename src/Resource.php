@@ -6,6 +6,7 @@ use Illuminate\Support\Arr;
 
 class Resource
 {
+    /** @var array */
     protected $attributes = [];
 
     public function __get($key)
