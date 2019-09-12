@@ -1,11 +1,11 @@
 {
-    "name": "teamzac/larapie",
+    "name": "teamzac/laraPie",
     "description": "A Laravel-enhanced wrapper for the SimplePie library",
     "keywords": [
         "teamzac",
-        "larapie"
+        "laraPie"
     ],
-    "homepage": "https://github.com/teamzac/larapie",
+    "homepage": "https://github.com/teamzac/laraPie",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -17,7 +17,10 @@
     ],
     "require": {
         "php": "^7.1",
-        "illuminate/support": "5.8.*"
+        "facade/ignition-contracts": "^1.0",
+        "illuminate/support": "5.8.*",
+        "nesbot/carbon": "^2.24",
+        "simplepie/simplepie": "^1.5"
     },
     "require-dev": {
         "orchestra/testbench": "3.8.*",
@@ -25,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Teamzac\\Larapie\\": "src"
+            "TeamZac\\LaraPie\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Teamzac\\Larapie\\Tests\\": "tests"
+            "TeamZac\\LaraPie\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -44,10 +47,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Teamzac\\Larapie\\LarapieServiceProvider"
+                "TeamZac\\LaraPie\\LaraPieServiceProvider"
             ],
             "aliases": {
-                "Larapie": "Teamzac\\Larapie\\LarapieFacade"
+                "LaraPie": "TeamZac\\LaraPie\\LaraPie"
             }
         }
     }

@@ -1,8 +1,18 @@
 <?php
 
-namespace Teamzac\Larapie;
+namespace TeamZac\LaraPie;
 
-class Larapie
+use Illuminate\Support\Facades\Facade;
+
+class LaraPie extends Facade
 {
-    // Build your next great package.
+    /**
+     * Get the registered name of the component.
+     *
+     * @return string
+     */
+    protected static function getFacadeAccessor()
+    {
+        return FeedFactory::class;
+    }
 }

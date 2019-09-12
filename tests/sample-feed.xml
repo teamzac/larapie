@@ -1,0 +1,960 @@
+<rss xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Engadget RSS Feed</title>
+<link>https://www.engadget.com/rss.xml</link>
+<image>
+<url>
+https://www.blogsmithmedia.com/www.engadget.com/media/feedlogo.gif?cachebust=true
+</url>
+<title>Engadget RSS Feed</title>
+<link>https://www.engadget.com/rss.xml</link>
+</image>
+<language>en-us</language>
+<description>
+Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics
+</description>
+<copyright>
+Copyright 2019 AOL Inc. The contents of this feed are available for non-commercial use only.
+</copyright>
+<item>
+<title>
+<![CDATA[ Watch Tesla's record-breaking Laguna Seca lap ]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/model-s-plaid-laguna-seca/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/model-s-plaid-laguna-seca/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/model-s-plaid-laguna-seca/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F3b879b90-d500-11e9-b3c8-20fe87935f9c&amp;client=a1acac3e1b3290917d92&amp;signature=d22e135d990e9020831c28b76bb2e76edde01ab5" />Last night Elon Musk tweeted that the company&#039;s Model S &quot;just set record for fastest 4 door ever at Laguna Seca&quot; and now there&#039;s video evidence of its 1:36.555 time. There aren&#039;t a lot of details available on the run or exterior shots to show how clo...
+]]>
+</description>
+<category>electric vehicle</category>
+<category>elon musk</category>
+<category>ev</category>
+<category>four door</category>
+<category>gear</category>
+<category>laguna seca</category>
+<category>ludicrous mode</category>
+<category>model s</category>
+<category>nurburgring</category>
+<category>plaid mode</category>
+<category>record breaking</category>
+<category>roadster</category>
+<category>tesla</category>
+<category>transportation</category>
+<dc:creator>
+<![CDATA[ Richard Lawler ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 21:58:00 -0400</pubDate>
+<dc:identifier>21|23811662</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Even 'Civilization VI' is getting a battle royale mode
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/civilization-vi-battle-royale-mode/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/civilization-vi-battle-royale-mode/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/civilization-vi-battle-royale-mode/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1600%2C1067%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1067&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F6e161870-d4e2-11e9-9fff-496efc4a0894&amp;client=a1acac3e1b3290917d92&amp;signature=bae28bb4051639ee98861eb35592f5a65f614b37" />Firaxis and 2K are taking an all-too-familiar approach to revitalizing a game: tack on a battle royale mode in a bid to capture the Fortnite crowd. They&#039;ve released an update to Civilization VI that introduces Red Death, a 12-player competitive mode...
+]]>
+</description>
+<category>2k</category>
+<category>av</category>
+<category>battle royale</category>
+<category>civilization</category>
+<category>civilization 6</category>
+<category>civilization vi</category>
+<category>firaxis</category>
+<category>games</category>
+<category>gaming</category>
+<category>personal computing</category>
+<category>personalcomputing</category>
+<category>red death</category>
+<category>sid meier</category>
+<category>strategy</category>
+<category>video</category>
+<category>video games</category>
+<dc:creator>
+<![CDATA[ Jon Fingas ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 20:52:00 -0400</pubDate>
+<dc:identifier>21|23811616</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Alexa Auto adds offline capabilities that work in tunnels and parking garages
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/alexa-auto-sdk-offline-functions/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/alexa-auto-sdk-offline-functions/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/alexa-auto-sdk-offline-functions/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=818%2C512%2C20%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1000&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Fe4d08e30-d4d0-11e9-babf-5472026b9c27&amp;client=a1acac3e1b3290917d92&amp;signature=a7283300d371031ffa75a46aa609fd84c71f14b8" />Having an Alexa-enabled car is convenient if you want to make a call, check the weather or order groceries while you drive. But that convenience quickly disintegrates when you drive through tunnels, parking garages or remote areas and lose signal. Am...
+]]>
+</description>
+<category>alexa</category>
+<category>alexa auto</category>
+<category>alexa auto sdk</category>
+<category>amazon</category>
+<category>automakers</category>
+<category>business</category>
+<category>gear</category>
+<category>in-car</category>
+<category>infotainment</category>
+<category>manufacturers</category>
+<category>offline</category>
+<category>services</category>
+<category>transportation</category>
+<category>version 2.0</category>
+<category>voice assistant</category>
+<category>voice control</category>
+<dc:creator>
+<![CDATA[ Christine Fisher ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 19:04:00 -0400</pubDate>
+<dc:identifier>21|23811572</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Uber intends to treat drivers as contractors despite California bill
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/uber-to-treat-california-drivers-as-contractors-despite-ab5/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/uber-to-treat-california-drivers-as-contractors-despite-ab5/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/uber-to-treat-california-drivers-as-contractors-despite-ab5/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=3557%2C2238%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1007&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-09%2F6ca94300-d4d7-11e9-8ee5-81b4e48b4f15&amp;client=a1acac3e1b3290917d92&amp;signature=1d8b2316b44b829a31c48b1d1823de4f671e3048" />California is likely on the cusp of making gig companies treat independent contractors as employees, but Uber doesn&#039;t think the potential law will change its business. In an update, legal chief Tony West maintained that Assembly Bill 5 (AB5) would l...
+]]>
+</description>
+<category>ab-5</category>
+<category>california</category>
+<category>gear</category>
+<category>gig economy</category>
+<category>internet</category>
+<category>labor</category>
+<category>law</category>
+<category>ridesharing</category>
+<category>services</category>
+<category>transportation</category>
+<category>uber</category>
+<dc:creator>
+<![CDATA[ Jon Fingas ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 18:06:00 -0400</pubDate>
+<dc:identifier>21|23811587</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[ The Pixel 4 XL is the worst-kept secret of 2019 ]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/pixel-4-xl-pre-release-hands-on-videos/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/pixel-4-xl-pre-release-hands-on-videos/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/pixel-4-xl-pre-release-hands-on-videos/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Fa491fa20-d4da-11e9-b3ef-b44f466c3691&amp;client=a1acac3e1b3290917d92&amp;signature=2ac580a9711a7d844b1fd20bc26dce298fad1ae2" />In what&#039;s become a seemingly annual tradition for Google&#039;s Pixel smartphones, the Pixel 4 has appeared in its first pre-release hands-on. And not one just but two. The first comes courtesy of Vietnamese YouTube channel AnhEm TV, and it corroborates a...
+]]>
+</description>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<category>google</category>
+<category>mobile</category>
+<category>pixel 4</category>
+<category>pixel 4 xl</category>
+<dc:creator>
+<![CDATA[ Igor Bonifacic ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 17:51:00 -0400</pubDate>
+<dc:identifier>21|23811592</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[ Inside Volkswagen's all-electric ID.3 ]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/inside-volkswagen-id-3-ev/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/inside-volkswagen-id-3-ev/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/inside-volkswagen-id-3-ev/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Fd23df210-d4cd-11e9-bf79-12bb2ef29568&amp;client=a1acac3e1b3290917d92&amp;signature=e299ba3a0d760d7b0e34c7712a9e2e4b19189641" />While the exterior of a car is important (no one wants to drive an ugly car), the interior is where you spend most of your time. While the powertrain (electric) and design (a smoother Golf) of the ID.3 are what people initially think of when they see...
+]]>
+</description>
+<category>business</category>
+<category>frankfurtmotorshow2019</category>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<category>green</category>
+<category>id3</category>
+<category>infotainment system</category>
+<category>mobile</category>
+<category>personal computing</category>
+<category>personalcomputing</category>
+<category>transportation</category>
+<category>volkswagen</category>
+<category>volkswagen id3</category>
+<dc:creator>
+<![CDATA[ Roberto Baldwin ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 17:05:00 -0400</pubDate>
+<dc:identifier>21|23811560</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Intel is hosting an Olympics-sanctioned esports tournament in 2020
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/intel-is-hosting-an-olympics-sanctioned-esports-tournament-in-20/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/intel-is-hosting-an-olympics-sanctioned-esports-tournament-in-20/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/intel-is-hosting-an-olympics-sanctioned-esports-tournament-in-20/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-09%2F677eb760-d4ce-11e9-a94b-8256de0f726f&amp;client=a1acac3e1b3290917d92&amp;signature=8d7cf24eda112c2eb41d8e9d7f3e3391d107d673" />Gamers will go for the gold next summer in Tokyo, but not in the Olympics. Intel has announced it will host an esports tournament in Tokyo during the lead-up to the 2020 Olympics. Players will compete in Street Fighter V and Rocket League for a price...
+]]>
+</description>
+<category>business</category>
+<category>entertainment</category>
+<category>gaming</category>
+<category>intel</category>
+<category>japan</category>
+<category>olympics</category>
+<category>tokyo olympics</category>
+<dc:creator>
+<![CDATA[ Amrita Khalid ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 16:34:00 -0400</pubDate>
+<dc:identifier>21|23811569</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+These days, Apple is content to follow trends, not set them
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/apple-iphone-camera-once-great-now-late/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/apple-iphone-camera-once-great-now-late/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/apple-iphone-camera-once-great-now-late/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1600%2C1066%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1066&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F70b054b0-d4c9-11e9-b6bd-fd7095260e45&amp;client=a1acac3e1b3290917d92&amp;signature=7c5d47d326c7f942774a7117e2e68c062a57890f" />Watching this week&#039;s Apple event gave me a sense of deja vu. With every new feature the iPhone maker announced, I felt like shouting something along the lines of, &quot;The Simpsons already did it!&quot; It felt as if everything Apple was doing was a riff on s...
+]]>
+</description>
+<category>apple</category>
+<category>cameras</category>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<category>google</category>
+<category>iphone 11 pro</category>
+<category>iphone2019</category>
+<category>lg</category>
+<category>mobile</category>
+<category>photography</category>
+<category>pixel 3</category>
+<category>samsung</category>
+<category>smartphone camera</category>
+<dc:creator>
+<![CDATA[ Cherlynn Low ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 16:00:00 -0400</pubDate>
+<dc:identifier>21|23811546</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Things get weird when a neural net is trained on text adventure games
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/gpt2-text-adventure/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/gpt2-text-adventure/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/gpt2-text-adventure/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Fc9d201a0-d4c5-11e9-a49c-d8359df2911d&amp;client=a1acac3e1b3290917d92&amp;signature=f7548def758053bdd25f57f449cf5c29539f9983" />We&#039;ve seen people turn neural networks to almost everything from drafting pickup lines to a new Harry Potter chapter, but it turns out classic text adventure games may be one of the best fits for AI yet. This latest glimpse into what artificial intel...
+]]>
+</description>
+<category>ai</category>
+<category>gaming</category>
+<category>neural network</category>
+<category>robots</category>
+<category>text adventure</category>
+<dc:creator>
+<![CDATA[ Igor Bonifacic ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 15:39:00 -0400</pubDate>
+<dc:identifier>21|23811534</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Amazon reportedly lists some toys before confirming they're safe
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/amazon-third-party-sellers-toy-safety/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/amazon-third-party-sellers-toy-safety/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/amazon-third-party-sellers-toy-safety/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=6000%2C3752%2C0%2C88&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1001&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2018-11%2F6c606940-ecdf-11e8-acdf-28f93f7990c0&amp;client=a1acac3e1b3290917d92&amp;signature=d6b43dd54de3f013dcea05e39c7915d4afb46895" />Some toys may appear on Amazon without being vetted for safety. According to a CNBC report, multiple third-party sellers say they were only asked for proof of safety compliance weeks after their products were listed for sale. While the practice might...
+]]>
+</description>
+<category>amazon</category>
+<category>business</category>
+<category>compliance</category>
+<category>consumer safety</category>
+<category>documentation</category>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<category>internet</category>
+<category>marketplace</category>
+<category>safety</category>
+<category>third-party</category>
+<category>third-party sellers</category>
+<category>toys</category>
+<dc:creator>
+<![CDATA[ Christine Fisher ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 15:21:00 -0400</pubDate>
+<dc:identifier>21|23811540</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[ 'Control' DLC hints at an 'Alan Wake' tie-in ]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/control-dlc-may-include-alan-wake-tie-in/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/control-dlc-may-include-alan-wake-tie-in/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/control-dlc-may-include-alan-wake-tie-in/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=980%2C551%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C900&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F99343100-d4be-11e9-abbb-8a2edfec1a11&amp;client=a1acac3e1b3290917d92&amp;signature=f93f0fcc1361778d0738b166e09716d8aa927418" />Remedy&#039;s game worlds might collide in a very conspicuous way. The studio has shared a roadmap for Control&#039;s downloadable content through 2020, and a second paid expansion (AWE) due in mid-2020 hints at a not-so-subtle crossover between Jesse&#039;s adven...
+]]>
+</description>
+<category>505 games</category>
+<category>alan wake</category>
+<category>av</category>
+<category>control</category>
+<category>games</category>
+<category>gaming</category>
+<category>personal computing</category>
+<category>personalcomputing</category>
+<category>remedy</category>
+<category>video games</category>
+<dc:creator>
+<![CDATA[ Jon Fingas ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 14:58:00 -0400</pubDate>
+<dc:identifier>21|23811505</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Scientists discover water vapor on an exoplanet with a rocky core
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/water-vapor-exoplanet-rocky-core/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/water-vapor-exoplanet-rocky-core/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/water-vapor-exoplanet-rocky-core/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=6400%2C3494%2C0%2C1155&amp;quality=85&amp;format=jpg&amp;resize=1600%2C874&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-09%2F9e79d4d0-d4be-11e9-be79-1bdc946b1940&amp;client=a1acac3e1b3290917d92&amp;signature=f947523255058203dea1b6505bc07261a3eb43b8" />Water vapor is common in gas giants; Jupiter, Saturn, Uranus and Neptune all have H2O floating around in their atmospheres. But water on a rocky planet is exceedingly rare, making the discovery of water vapor -- and possibly even rain -- on the exopl...
+]]>
+</description>
+<category>astronomy</category>
+<category>exoplanet</category>
+<category>hubble space telescope</category>
+<category>k2-18 b</category>
+<category>science</category>
+<category>space</category>
+<category>space exploration</category>
+<category>tomorrow</category>
+<dc:creator>
+<![CDATA[ Marc DeAngelis ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 14:37:00 -0400</pubDate>
+<dc:identifier>21|23811507</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+The Trump administration plans to ban flavored e-cigs to curb teen vaping
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/the-trump-administration-plans-to-ban-flavored-e-cigs-to-curb-te/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/the-trump-administration-plans-to-ban-flavored-e-cigs-to-curb-te/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/the-trump-administration-plans-to-ban-flavored-e-cigs-to-curb-te/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=4200%2C2620%2C0%2C179&amp;quality=85&amp;format=jpg&amp;resize=1600%2C998&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-09%2F52a2e500-d4bf-11e9-afbd-67d2e6bb3120&amp;client=a1acac3e1b3290917d92&amp;signature=d2b68fe4a7a6044333d571c4a609adf7bb009b6c" />The Trump administration announced today that it may ban the sale of most flavored e-cigarettes in an attempt to curb teen vaping, The New York Times reports. In a press release, the Department of Health and Human Services (HHS) shared that the FDA p...
+]]>
+</description>
+<category>ban</category>
+<category>business</category>
+<category>e-cigarette</category>
+<category>e-cigs</category>
+<category>fda</category>
+<category>flavored</category>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<category>medicine</category>
+<category>politics</category>
+<category>remove</category>
+<category>teen vaping</category>
+<category>tomorrow</category>
+<category>trump administration</category>
+<category>vaping</category>
+<dc:creator>
+<![CDATA[ Christine Fisher ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 14:18:00 -0400</pubDate>
+<dc:identifier>21|23811508</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[ HomePod radio streaming arrives on September 30th ]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/homepod-radio-streaming-september-30th/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/homepod-radio-streaming-september-30th/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/homepod-radio-streaming-september-30th/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=2000%2C1332%2C0%2C42&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1066&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Fff176350-d4b6-11e9-afbf-e9010400bfa8&amp;client=a1acac3e1b3290917d92&amp;signature=e31523fa4e2235fa71543cf3c72b4b8385fc2c80" />Apple didn&#039;t really discuss the HomePod at its iPhone 11 event, but there was still some news that (almost) slipped under the radar. The tech firm quietly updated the HomePod&#039;s product page to reveal that the vaunted radio streaming feature will rea...
+]]>
+</description>
+<category>av</category>
+<category>gear</category>
+<category>handoff</category>
+<category>homepod</category>
+<category>iheartradio</category>
+<category>multi-user</category>
+<category>radio</category>
+<category>radio.com</category>
+<category>siri</category>
+<category>smart speaker</category>
+<category>speaker</category>
+<category>streaming</category>
+<category>tunein</category>
+<dc:creator>
+<![CDATA[ Jon Fingas ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 13:57:00 -0400</pubDate>
+<dc:identifier>21|23811476</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+'Sayonara Wild Hearts' hits PS4 and Switch the same day as Apple Arcade
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/sayonara-wild-hearts-switch-ps4-release-date-apple-arcade/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/sayonara-wild-hearts-switch-ps4-release-date-apple-arcade/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/sayonara-wild-hearts-switch-ps4-release-date-apple-arcade/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1599%2C900%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C900&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Ff2b8d7c0-d4b5-11e9-be6f-3cb7033c6f5f&amp;client=a1acac3e1b3290917d92&amp;signature=7201c9583e7e90ae2e44f032d3763c2ce86d29cf" />During Tuesday&#039;s big iPhone event, one of the Apple Arcade games that got some stage time was Sayonara Wild Hearts. It&#039;s a launch title for the game subscription service, but that&#039;s not the only place you&#039;ll be able to play the &quot;pop album video game&quot;...
+]]>
+</description>
+<category>apple</category>
+<category>apple arcade</category>
+<category>applearcade</category>
+<category>art</category>
+<category>av</category>
+<category>gaming</category>
+<category>nintendo</category>
+<category>nintendo switch</category>
+<category>nintendoswitch</category>
+<category>playstation 4</category>
+<category>playstation4</category>
+<category>ps4</category>
+<category>sayonara wild hearts</category>
+<category>sayonarawildhearts</category>
+<category>sony</category>
+<category>switch</category>
+<category>thebuyersguide</category>
+<dc:creator>
+<![CDATA[ Kris Holt ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 13:40:00 -0400</pubDate>
+<dc:identifier>21|23811475</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+New 'Final Fantasy VII Remake' trailer shows familiar faces
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/final-fantasy-vii-remake-tgs-trailer/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/final-fantasy-vii-remake-tgs-trailer/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/final-fantasy-vii-remake-tgs-trailer/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F870dd720-d4ae-11e9-abf8-d2d3d9b17ad0&amp;client=a1acac3e1b3290917d92&amp;signature=2116d00b04d66371f0fbb5146a7166abe86968b9" />It&#039;s taken the better part of five years, but Square Enix is finally offering fans an extended glimpse at Final Fantasy VII Remake. On Wednesday, the company released a new trailer for the upcoming remaster at the Tokyo Game Show. Over the course of...
+]]>
+</description>
+<category>av</category>
+<category>final fantasy vii</category>
+<category>final fantasy vii remake</category>
+<category>gaming</category>
+<category>playstation 4</category>
+<category>sony</category>
+<category>square enix</category>
+<dc:creator>
+<![CDATA[ Igor Bonifacic ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 13:31:00 -0400</pubDate>
+<dc:identifier>21|23811432</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Intel will use multi-camera, 3D athlete tracking in the 2020 Olympics
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/intel-olympics-2020-3d-athlete-tracking/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/intel-olympics-2020-3d-athlete-tracking/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/intel-olympics-2020-3d-athlete-tracking/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=5369%2C3355%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1000&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-09%2F60ce3cf0-d4a2-11e9-b7ff-947fc3f618cc&amp;client=a1acac3e1b3290917d92&amp;signature=41ecd16b68cfe8caad2b54cd666e06a42007cf4b" />Intel plans to bring 3D athlete tracking (3DAT) to the 2020 Olympics. Today, the company announced that its 3DAT system will use four cameras to film athletes in the 100-meter and other sprinting events. Algorithms will then analyze the biomechanics...
+]]>
+</description>
+<category>3d</category>
+<category>3d athlete tracking</category>
+<category>3dat</category>
+<category>business</category>
+<category>cameras</category>
+<category>data visualization</category>
+<category>entertainment</category>
+<category>intel</category>
+<category>olympics</category>
+<category>olympics 2020</category>
+<category>services</category>
+<category>sprint</category>
+<category>tracking</category>
+<category>training</category>
+<category>vr</category>
+<category>vr training</category>
+<dc:creator>
+<![CDATA[ Christine Fisher ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 13:12:00 -0400</pubDate>
+<dc:identifier>21|23811377</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Hyundai's first electric race car is a souped-up Veloster
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/hyundai-veloster-n-etcr-electric-race-car/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/hyundai-veloster-n-etcr-electric-race-car/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/hyundai-veloster-n-etcr-electric-race-car/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1600%2C1067%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1067&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F5f817c30-d4a3-11e9-bff7-4840b1bf7226&amp;client=a1acac3e1b3290917d92&amp;signature=a4f352929df606f6f0ba70d74fa7c2893b8a7bdc" />Hyundai is joining the ranks of automakers with electric race cars -- if in a somewhat predictable way. The company has started work on the Veloster N ETCR, a race-tuned EV edition of the Veloster N built for its namesake ETCR championship starting...
+]]>
+</description>
+<category>electric car</category>
+<category>electric vehicle</category>
+<category>ev</category>
+<category>frankfurt motor show</category>
+<category>frankfurtmotorshow2019</category>
+<category>gear</category>
+<category>green</category>
+<category>hyundai</category>
+<category>motorsport</category>
+<category>race car</category>
+<category>transportation</category>
+<category>veloster</category>
+<category>veloster n</category>
+<category>veloster n etcr</category>
+<dc:creator>
+<![CDATA[ Jon Fingas ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 12:49:00 -0400</pubDate>
+<dc:identifier>21|23811382</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[ Did AI kill off spam and we just didn’t notice? ]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/did-ai-kill-off-spam-and-we-just-didn-t-notice/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/did-ai-kill-off-spam-and-we-just-didn-t-notice/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/did-ai-kill-off-spam-and-we-just-didn-t-notice/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=5472%2C3744%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1095&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-09%2F58e71f20-d0c4-11e9-8b8f-ff8042939a65&amp;client=a1acac3e1b3290917d92&amp;signature=830f64fe58be4f835606189299e4e85d4a13e184" />I was pwned online recently. My contact information was revealed to the internet by the Entertainment Software Association&#039;s leaky exhibitor portal. Luckily, confidential info like my SSN and birthdate were not spilled but I still found myself prepar...
+]]>
+</description>
+<category>e3</category>
+<category>esa</category>
+<category>gmail</category>
+<category>google</category>
+<category>internet</category>
+<category>spam</category>
+<category>tomorrow</category>
+<dc:creator>
+<![CDATA[ Andrew Tarantola ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 12:30:00 -0400</pubDate>
+<dc:identifier>21|23808146</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+AppleCare+ for the iPhone and Watch is available as a monthly subscription
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/applecare-monthly-subscription-service-iphone-ipad-watch/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/applecare-monthly-subscription-service-iphone-ipad-watch/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/applecare-monthly-subscription-service-iphone-ipad-watch/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1800%2C1125%2C0%2C65&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1000&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F93b46500-d4ab-11e9-add7-597ce2fcb297&amp;client=a1acac3e1b3290917d92&amp;signature=e9e89b9eb51bc16fdd9cb8c2cb69d285d63f4618" />Yesterday, Apple made one change that wasn&#039;t announced at its iPhone event. The company will offer its AppleCare+ extended warranty as monthly subscription service, at least for the iPhone, iPad and Apple Watch. The new option will allow customers to...
+]]>
+</description>
+<category>apple</category>
+<category>apple watch</category>
+<category>applecare+</category>
+<category>business</category>
+<category>extended warranty</category>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<category>ipad</category>
+<category>iphone</category>
+<category>mobile</category>
+<category>services</category>
+<category>subscription</category>
+<category>subscription service</category>
+<category>thebuyersguide</category>
+<category>warranty</category>
+<dc:creator>
+<![CDATA[ Christine Fisher ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 12:22:00 -0400</pubDate>
+<dc:identifier>21|23811424</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+PC-to-mobile game streaming arrives on the Galaxy Note 10
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/samsung-playgalaxy-game-streaming-available-for-galaxy-note-10/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/samsung-playgalaxy-game-streaming-available-for-galaxy-note-10/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/samsung-playgalaxy-game-streaming-available-for-galaxy-note-10/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=2400%2C1600%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1067&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F5e7b52a0-d4aa-11e9-8fce-7859ddc33629&amp;client=a1acac3e1b3290917d92&amp;signature=2ac82f883638fb70ed1616d6b948d46e75c2e36b" />Samsung&#039;s PlayGalaxy PC-to-mobile game streaming app is ready to roll, provided you have the right hardware. The tech giant has released PlayGalaxy Link in the US and South Korea for Galaxy Note 10 and Note 10+ owners who want to play computer-quali...
+]]>
+</description>
+<category>android</category>
+<category>app</category>
+<category>galaxy note 10</category>
+<category>galaxy note 10+</category>
+<category>game streaming</category>
+<category>games</category>
+<category>gaming</category>
+<category>gear</category>
+<category>mobile</category>
+<category>personal computing</category>
+<category>personalcomputing</category>
+<category>playgalaxy</category>
+<category>playgalaxy link</category>
+<category>samsung</category>
+<category>smartphone</category>
+<category>video games</category>
+<dc:creator>
+<![CDATA[ Jon Fingas ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 12:08:00 -0400</pubDate>
+<dc:identifier>21|23811418</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+SpaceX confirms it's almost ready to test its orbital Starship
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/spacex-orbital-starship-fcc-filing/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/spacex-orbital-starship-fcc-filing/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/spacex-orbital-starship-fcc-filing/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1600%2C900%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C900&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Ffeb33400-d49a-11e9-bf7f-7cdbe96eed73&amp;client=a1acac3e1b3290917d92&amp;signature=6844026f6738a1ec8f14f2fd1ccf5276cb5f86e9" />SpaceX isn&#039;t wasting much time now that Starhopper has completed its hover test. The company has filed an FCC communication permissions request that, as Elon Musk confirmed, prepares for test-flying the &quot;orbit-class&quot; Starship. The vehicle will fly mu...
+]]>
+</description>
+<category>fcc</category>
+<category>gear</category>
+<category>rocket</category>
+<category>space</category>
+<category>spacecraft</category>
+<category>spacex</category>
+<category>starship</category>
+<category>tomorrow</category>
+<category>transportation</category>
+<dc:creator>
+<![CDATA[ Jon Fingas ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 11:37:00 -0400</pubDate>
+<dc:identifier>21|23811337</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Google's Nest Mini with wall mount and audio port hits the FCC
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/google-nest-mini-fcc/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/google-nest-mini-fcc/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/google-nest-mini-fcc/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Fe01b4450-d4a0-11e9-bd4d-ecc4bb55de44&amp;client=a1acac3e1b3290917d92&amp;signature=26c9322fd0703cc41530cf7432bacd96d52a2369" />It looks like those reports that Google&#039;s Nest-branded Home Mini successor will feature a wall mount and auxiliary audio jack are accurate. A new FCC filing, first spotted by 9 to 5 Google, seemingly confirms everything we&#039;ve heard about the Nest Min...
+]]>
+</description>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<category>google</category>
+<category>google assistant</category>
+<category>google home</category>
+<category>google home mini</category>
+<category>home</category>
+<category>nest</category>
+<category>nest mini</category>
+<dc:creator>
+<![CDATA[ Igor Bonifacic ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 11:19:00 -0400</pubDate>
+<dc:identifier>21|23811375</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Apple Arcade is a tough sell, despite its low price
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/apple-arcade-is-a-tough-sell/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/apple-arcade-is-a-tough-sell/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/apple-arcade-is-a-tough-sell/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F1b309c90-d49f-11e9-be9f-6beaf72f1ab0&amp;client=a1acac3e1b3290917d92&amp;signature=796c4277fa3a546674c12629591eb157bd782eb0" />At last, Apple has put a price on Apple Arcade, its video game subscription service. Five bucks per month? At first blush, that seems like a pretty good deal for a curated library of small but high quality games that you can play on iPhone, iPad, Mac...
+]]>
+</description>
+<category>apple</category>
+<category>apple arcade</category>
+<category>gaming</category>
+<category>iphone2019</category>
+<category>services</category>
+<category>thebuyersguide</category>
+<dc:creator>
+<![CDATA[ Nick Summers ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 11:00:00 -0400</pubDate>
+<dc:identifier>21|23811367</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Comcast sues Maine over a law requiring a-la-carte cable offerings
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/09/11/comcast-cable-operators-sue-maine-a-la-carte-channels/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/09/11/comcast-cable-operators-sue-maine-a-la-carte-channels/
+</guid>
+<comments>
+https://www.engadget.com/2019/09/11/comcast-cable-operators-sue-maine-a-la-carte-channels/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=4380%2C2739%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1000&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-01%2F2cc85da0-1044-11e9-94cf-a21a2500dac9&amp;client=a1acac3e1b3290917d92&amp;signature=3bafbe1b2aafccefba58f3fd25a9dbc871481ce7" />Cord cutting may seem like the new norm, but plenty of people still pay for cable TV. That doesn&#039;t mean they&#039;re happy with it though. This summer, in response to complaints that customers had to purchase an entire cable package just to watch one or t...
+]]>
+</description>
+<category>a la carte</category>
+<category>business</category>
+<category>cable</category>
+<category>cable operators</category>
+<category>cable tv</category>
+<category>cbs</category>
+<category>channels</category>
+<category>comcast</category>
+<category>cord cutting</category>
+<category>disney</category>
+<category>entertainment</category>
+<category>fox</category>
+<category>free speech</category>
+<category>law</category>
+<category>lawsuit</category>
+<category>maine</category>
+<category>networks</category>
+<category>politics</category>
+<category>programming</category>
+<dc:creator>
+<![CDATA[ Christine Fisher ]]>
+</dc:creator>
+<pubDate>Wed, 11 Sep 2019 10:31:00 -0400</pubDate>
+<dc:identifier>21|23811343</dc:identifier>
+</item>
+</channel>
+</rss>
