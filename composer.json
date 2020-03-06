@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.1|^7.2",
         "facade/ignition-contracts": "^1.0",
-        "illuminate/support": "5.8.*|^6.0",
+        "illuminate/support": "5.8.*|^6.0|^7.0",
         "nesbot/carbon": "^2.24",
         "simplepie/simplepie": "^1.5"
     },
