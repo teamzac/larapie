@@ -2,7 +2,7 @@
 
 namespace TeamZac\LaraPie;
 
-use SimplePie_Item;
+use SimplePie_Author;
 
 class Author extends Resource
 {
@@ -13,12 +13,12 @@ class Author extends Resource
         });
     }
 
-    public function __construct(SimplePie_Item $simplepie)
+    public function __construct(SimplePie_Author $simplepie)
     {
         $this->setAttributes($simplepie);
     }
 
-    protected function setAttributes(SimplePie_Item $simplepie)
+    protected function setAttributes(SimplePie_Author $simplepie)
     {
         $this->attributes = [
             'name' => $simplepie->get_name(),
