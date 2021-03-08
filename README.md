@@ -12,7 +12,7 @@ You can install the package via composer:
 ```bash
 composer require teamzac/larapie
 ```
-
+ 
 ## Usage
 
 ``` php
