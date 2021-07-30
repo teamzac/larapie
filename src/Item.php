@@ -16,9 +16,18 @@ use SimplePie_Item;
   */
 class Item extends Resource
 {
+    /** @var SimplePie_Item */
+    protected $simplepie;
+
     public function __construct(SimplePie_Item $simplepie)
     {
+        $this->simplepie = $simplepie;
         $this->setAttributes($simplepie);
+    }
+
+    public function getOriginal()
+    {
+        return $this->simplepie;
     }
 
     protected function setAttributes($simplepie)
