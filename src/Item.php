@@ -3,6 +3,7 @@
 namespace TeamZac\LaraPie;
 
 use SimplePie_Item;
+use WeakReference;
 
 /**
   * @property-read string $id
@@ -16,18 +17,17 @@ use SimplePie_Item;
   */
 class Item extends Resource
 {
-    /** @var SimplePie_Item */
-    protected $simplepie;
+    protected WeakReference $simplepie;
 
     public function __construct(SimplePie_Item $simplepie)
     {
-        $this->simplepie = $simplepie;
         $this->setAttributes($simplepie);
+        $this->simplepie = WeakReference::create($simplepie);
     }
 
     public function getOriginal()
     {
-        return $this->simplepie;
+        return $this->simplepie->get();
     }
 
     protected function setAttributes($simplepie)
@@ -39,6 +39,7 @@ class Item extends Resource
             'content' => $simplepie->get_content(),
             'categories' => Category::collection($simplepie->get_categories()),
             'authors' => Author::collection($simplepie->get_authors()),
+            'enclosures' => Enclosure::collection($simplepie->get_enclosures()),
             'dates' => Dates::make($simplepie),
             'links' => Links::make($simplepie),
         ];
